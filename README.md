@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yagna-1790
 - 👀 I’m interested in ethical hacking 
 - 🌱 I’m currently learning cse in gitam deemed to be university 
-- 📫 Reach me on vamshiyagna2003@gmail.com 
+- 📫 Reach me on yagnavamshisoul@gmail.com
 
 <!---
 Yagna-1790/Yagna-1790 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
